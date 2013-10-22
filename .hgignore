@@ -1,0 +1,11 @@
+syntax: glob
+
+bin/
+obj/
+*.suo
+*.cachefile
+*.user
+
+
+#syntax: regexp
+

@@ -1,0 +1,3 @@
+Tutorial and all content used for explosions used from:
+XNA 4.0 Game Development by Example. Kurt Jaejers
+Copyright © 2010 Packt Publishing
